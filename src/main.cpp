@@ -1,4 +1,4 @@
-#include "util/PPM.h"
+#include "../util/PPM.h"
 #include <iostream>
 
 int main()
